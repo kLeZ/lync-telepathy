@@ -1,0 +1,32 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x1c\x00l\x00y\x00n\x00c\x00-\x00t\x00e\x00l\x00e\x00p\x00a\x00t\x00h\x00y)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/kLeZ-hAcK/projects/lync-telepathy/build
+Build Type=Debug
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///usr
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=lync-telepathy
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Project Target=lync-telepathy,lync-telepathy
+Working Directory=file:///home/kLeZ-hAcK/projects/lync-telepathy/build/
+isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit
